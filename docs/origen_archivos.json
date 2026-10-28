@@ -1,0 +1,1664 @@
+[
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/main.ipynb",
+    "path": "main.ipynb",
+    "sha256": "3a16b69b35069827fb60e15ab45f2aee38c7c61fb02c279c72534a6cfc42c3c3"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_16.jpg",
+    "path": "i308-calib/data/calib/left_16.jpg",
+    "sha256": "ca0118b00eed78d62f3412bd695251d1f43f4e9bc50b405895d1e72dfa08cc5b"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_2.jpg",
+    "path": "i308-calib/data/calib/left_2.jpg",
+    "sha256": "922099891e939e4d38fed6084524c2896088ea51e35cd9643e06646a69a1a2b0"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_3.jpg",
+    "path": "i308-calib/data/calib/left_3.jpg",
+    "sha256": "3d01f23d47f55f4bf6d2f65607b50b361bbeea57337a36b11f68d6e7cb9ab6e3"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_17.jpg",
+    "path": "i308-calib/data/calib/left_17.jpg",
+    "sha256": "6352a3c3116ce50abd16373e0e2bcc386896dfdc602a3f519681f84ddf70d5f8"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_15.jpg",
+    "path": "i308-calib/data/calib/left_15.jpg",
+    "sha256": "06245090ff46fa81aa7584a6c3f3878fd035f365b3a43396224e14891ab7da9a"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_1.jpg",
+    "path": "i308-calib/data/calib/left_1.jpg",
+    "sha256": "767fe0863612d4c0eea6bf69e69bcd73faaad69c0f8f54bb66602decf2869ac8"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_14.jpg",
+    "path": "i308-calib/data/calib/left_14.jpg",
+    "sha256": "4ecc7cd60da8a306e07d16fc4fb74a37497ec0e240c13dd3738db50b11ff4268"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_10.jpg",
+    "path": "i308-calib/data/calib/left_10.jpg",
+    "sha256": "edbf3bbfe91f15b0844e70eb31eb96859cec6ebd564633db58b5e571961df680"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_4.jpg",
+    "path": "i308-calib/data/calib/left_4.jpg",
+    "sha256": "21359a1bd1bc69aa8e291c791db232a6269da607ade1476e2b74a3c1c2ce5ba6"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_5.jpg",
+    "path": "i308-calib/data/calib/left_5.jpg",
+    "sha256": "5df70a762e742b6e5c0aa13eff036db39fa2f63067946229fe2565cb648be85b"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_11.jpg",
+    "path": "i308-calib/data/calib/left_11.jpg",
+    "sha256": "1cf8465c0fdcfc3bdac806d8a4ce0c3335d0396127de5f227eb36441d551bb2c"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_13.jpg",
+    "path": "i308-calib/data/calib/left_13.jpg",
+    "sha256": "3511c84299558b2dcba17db5502849aab2fe3d9ebfbf85c542d2360575f2ab21"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_7.jpg",
+    "path": "i308-calib/data/calib/left_7.jpg",
+    "sha256": "f800a53f9da50d6b637a032ec3d193ac07c7d216b9965016718fc3d88b9eeaee"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_6.jpg",
+    "path": "i308-calib/data/calib/left_6.jpg",
+    "sha256": "5b4fe156255faa8b7b48876db4bb3321264d42d3ab1b419bd89d09e7b63dd8f0"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_12.jpg",
+    "path": "i308-calib/data/calib/left_12.jpg",
+    "sha256": "095dc4ea86510a276679b369f25fa052d23b816a2ed1a60cbf58d823f7e94d00"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_24.jpg",
+    "path": "i308-calib/data/calib/right_24.jpg",
+    "sha256": "396e30c9ce7be32e18a6ebd9dae3f1000109728d04fc6517d7d38f524c39f046"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_18.jpg",
+    "path": "i308-calib/data/calib/right_18.jpg",
+    "sha256": "b2eda1ce13c4061750e2e3339464ee93f368364f8a2ee0d419f947b606928e93"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_1.jpg",
+    "path": "i308-calib/data/calib/right_1.jpg",
+    "sha256": "15c92ea393ec601e58cdb80c8d845b1b72d58ef11bf45d4801eb450c86cdf84d"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_19.jpg",
+    "path": "i308-calib/data/calib/right_19.jpg",
+    "sha256": "b141e0192e114c6a92c542403f2637602dccfcc89c5e1bf382b6275d0ea803fa"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_25.jpg",
+    "path": "i308-calib/data/calib/right_25.jpg",
+    "sha256": "3c6e36534677d14ca301b7e27e73f28823992fa31a90ac45615b1138fc2b237b"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_3.jpg",
+    "path": "i308-calib/data/calib/right_3.jpg",
+    "sha256": "f583a94a9edbee4696c91fb0e5373759e7aceb5546e79493e6986633dfdbde7d"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_2.jpg",
+    "path": "i308-calib/data/calib/right_2.jpg",
+    "sha256": "fafd1f7459ce7b61743e3ec180ea68d67472357aa917aaefa72877d85a0c980b"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_22.jpg",
+    "path": "i308-calib/data/calib/right_22.jpg",
+    "sha256": "571b4b93fff6261ef4e4cc38f352951b06526f06036c4d8187b9c1486e8d968a"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_6.jpg",
+    "path": "i308-calib/data/calib/right_6.jpg",
+    "sha256": "6c743e1f14ddc83aaaed1a9922f8b1c8de9b9ffee5b4dd77a8c068018fc36958"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_7.jpg",
+    "path": "i308-calib/data/calib/right_7.jpg",
+    "sha256": "278217e2069bf29646114f8e6d7741b2049711be8e1c71427ad98d059ff05d46"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_23.jpg",
+    "path": "i308-calib/data/calib/right_23.jpg",
+    "sha256": "aa799fbc4385ec83b9ea0355fac76faef86290a07e77a6c7311e3d502220787c"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_21.jpg",
+    "path": "i308-calib/data/calib/right_21.jpg",
+    "sha256": "0e824f995422848413304c9ad1539c1d141e5dd492bf12c8d1777713c8b4fea8"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_5.jpg",
+    "path": "i308-calib/data/calib/right_5.jpg",
+    "sha256": "a0152cb1466d5f1be696ff7d3e6a2ea0bfbfab7e6fd5e2f33939395fd3354647"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_4.jpg",
+    "path": "i308-calib/data/calib/right_4.jpg",
+    "sha256": "c995306c24262eb596879b99ea27854f12df8f8010456b37b2a80a54308e95c9"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_20.jpg",
+    "path": "i308-calib/data/calib/right_20.jpg",
+    "sha256": "b83c6defdeda0a9063fffbb2a20caf3a32320ea7cbc2a42a68b310654836fa6e"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_11.jpg",
+    "path": "i308-calib/data/calib/right_11.jpg",
+    "sha256": "ee5f3a9a447b5cf8c3852f36636baf068ba486b624397d97fcf4ea35117672dc"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_9.jpg",
+    "path": "i308-calib/data/calib/right_9.jpg",
+    "sha256": "a8c5ef425ce6ff8138d34b22ba23d9877780d595617e9c0659eedf07a6dd40f4"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_8.jpg",
+    "path": "i308-calib/data/calib/right_8.jpg",
+    "sha256": "c177243aa6f1fa350dc91b762a7b14631761b0f55e16d37e046b97d763a71b5a"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_10.jpg",
+    "path": "i308-calib/data/calib/right_10.jpg",
+    "sha256": "dff6be7ca701f3a2d59f683a8b2393fda908224574127d3edaa50e2dde39d0ac"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_12.jpg",
+    "path": "i308-calib/data/calib/right_12.jpg",
+    "sha256": "e334ce80c59b3533be299f8146a942f5826f76a24141ad7d33918e70c943eb73"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_13.jpg",
+    "path": "i308-calib/data/calib/right_13.jpg",
+    "sha256": "dceb4f2534387721588a095980964cccdc1d808fac63d04c8cd838cd747ae88b"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_17.jpg",
+    "path": "i308-calib/data/calib/right_17.jpg",
+    "sha256": "2b115afaa99a81f435d62e5f8ceb09277211a682615312e7b2fed4f03cbe357d"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_16.jpg",
+    "path": "i308-calib/data/calib/right_16.jpg",
+    "sha256": "b9af9057450ced378f799c89316597bce7c7a80aa22441d153da88c68beccfe6"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_14.jpg",
+    "path": "i308-calib/data/calib/right_14.jpg",
+    "sha256": "e16566a664818e892c006bc96405fa73913912a5736dd405dd6305971d761037"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/right_15.jpg",
+    "path": "i308-calib/data/calib/right_15.jpg",
+    "sha256": "12c93f531421be2f5ae8f317433365c7672733d97e4fd9f6d0a3bb93bbbb9adf"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_23.jpg",
+    "path": "i308-calib/data/calib/left_23.jpg",
+    "sha256": "c564110212dd480d6a4c2c761576e9e45f4bd348da5c3148856eaf9cec7a0246"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_22.jpg",
+    "path": "i308-calib/data/calib/left_22.jpg",
+    "sha256": "a22bfa5288f427f572ad85fe94b3abfab0ed64db2796c17f9d108cf4f7b475d0"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_20.jpg",
+    "path": "i308-calib/data/calib/left_20.jpg",
+    "sha256": "5b02ddc529fddd92dda18c85a22decb743f9982038b488892b7b02d65799392f"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_8.jpg",
+    "path": "i308-calib/data/calib/left_8.jpg",
+    "sha256": "acfa88f858a741ef202a9af0ec7a0374acfccb8059a53b5a66da046a5bc1cab5"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_9.jpg",
+    "path": "i308-calib/data/calib/left_9.jpg",
+    "sha256": "0e13181c6c420898a0ebac0cb44c4ccb8b65cf09828461d2838d5a0a57afe775"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_21.jpg",
+    "path": "i308-calib/data/calib/left_21.jpg",
+    "sha256": "41230646d106b61e42d41d15f403801ff495c908ab98c8f04d065f6da0905844"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_19.jpg",
+    "path": "i308-calib/data/calib/left_19.jpg",
+    "sha256": "a17a4e76501c36c54af102b2d6f7ef37bd7f363ffa0cfdf22292972d7eb10e5b"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_25.jpg",
+    "path": "i308-calib/data/calib/left_25.jpg",
+    "sha256": "aeb0a46079bb16c37aab5f9cdeb13e70961fd432065ad431cb4e7711eea868be"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_24.jpg",
+    "path": "i308-calib/data/calib/left_24.jpg",
+    "sha256": "d4aca888285eccf9980c32604e825534a612a24bdda7ff2a60a8248ea961e3b5"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/calib/left_18.jpg",
+    "path": "i308-calib/data/calib/left_18.jpg",
+    "sha256": "5f533021dcbc06a6796aafa22d2c1c97e2aaf7a9ddf210f1f48b47b1dbfb92f8"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/left_2.jpg",
+    "path": "i308-calib/data/captures/left_2.jpg",
+    "sha256": "5dad5c0748e0e97a7d0b8e812aa9230abdf5d8b757891a3b9bc27da35cbde48d"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/left_3.jpg",
+    "path": "i308-calib/data/captures/left_3.jpg",
+    "sha256": "b177b32b1f143117b7bbcd2b3585eb400dc230f291194a3c09c3a1b6ddc42938"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/left_1.jpg",
+    "path": "i308-calib/data/captures/left_1.jpg",
+    "sha256": "bd308bb4acc667576fc13944dcc4107fea57d4cca80646b6dc4d32ff2a3b077e"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/left_0.jpg",
+    "path": "i308-calib/data/captures/left_0.jpg",
+    "sha256": "d26afe94f3aedb1a4fbd6c52566aa082e11fb9a7c18047c99a72b003f2ba7774"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/left_14.jpg",
+    "path": "i308-calib/data/captures/left_14.jpg",
+    "sha256": "f55549938babf3947058bd85f9846f0d2c7faab4b4d6f23b9491dae6cca6be11"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/left_10.jpg",
+    "path": "i308-calib/data/captures/left_10.jpg",
+    "sha256": "bd1135ca78be544766c9376cb3d249696ac1547864a360a833f3bb4badcd8810"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/left_4.jpg",
+    "path": "i308-calib/data/captures/left_4.jpg",
+    "sha256": "da962fd6b684af8bfff9b661ad6a3691398b44a702545f7bbd2c899e9f1c4aa0"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/left_5.jpg",
+    "path": "i308-calib/data/captures/left_5.jpg",
+    "sha256": "6ac99bcc573d3a0bede7f76c03187d051f62399474054366c562b00851e1ae81"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/left_11.jpg",
+    "path": "i308-calib/data/captures/left_11.jpg",
+    "sha256": "8d967c3be6519d1a9ee95e224239a1a28333f3e52c4b918974b929b4d6a2e91e"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/left_13.jpg",
+    "path": "i308-calib/data/captures/left_13.jpg",
+    "sha256": "4fa1edd31bcc9ded3398755b70cd0cc9a2346100edf739bbb7b1f54aa13b67c1"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/left_7.jpg",
+    "path": "i308-calib/data/captures/left_7.jpg",
+    "sha256": "be329e00b97e6b9412a6e24ccde597ef8619cef09b630c4b97cfe8583a917a42"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/left_6.jpg",
+    "path": "i308-calib/data/captures/left_6.jpg",
+    "sha256": "2b7306ad8ed871ed82ff6d8c0db4e986eb0fc6e468fb16b20ed8889daaffaae4"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/left_12.jpg",
+    "path": "i308-calib/data/captures/left_12.jpg",
+    "sha256": "12b1f865e748123c2c0fe7803474b0a517673d94fb9acf2097e99e9465d6b709"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/right_0.jpg",
+    "path": "i308-calib/data/captures/right_0.jpg",
+    "sha256": "3fe4e95fd92ac484fd201ae9afc695c4c4b950378c145a057e0c99580fdc6438"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/right_1.jpg",
+    "path": "i308-calib/data/captures/right_1.jpg",
+    "sha256": "00a44897068cc26a8cdc98a14117b8ed2f85d8839d938be14251f4756e5088da"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/right_3.jpg",
+    "path": "i308-calib/data/captures/right_3.jpg",
+    "sha256": "9b6e5402b626afc249b73cd3a7e2910b099572f75bfb23402e49f3fbb12b145a"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/right_2.jpg",
+    "path": "i308-calib/data/captures/right_2.jpg",
+    "sha256": "bd44f387f3f4e3c51acb1d64e624bd11500e374373e22b7acd66e5d73a49c8e0"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/right_6.jpg",
+    "path": "i308-calib/data/captures/right_6.jpg",
+    "sha256": "65463afd0a6fae3b61c485d23e98a64d2d7bbeb8bb890b93b366ffb32f581b6e"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/right_7.jpg",
+    "path": "i308-calib/data/captures/right_7.jpg",
+    "sha256": "7968a01993f92a1f3dd1576896f80e36f4f8c6afc4628b7e7e47f559bbcca30d"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/right_5.jpg",
+    "path": "i308-calib/data/captures/right_5.jpg",
+    "sha256": "acf8288b5a6c08f3b0961498f1ec4cd7736f5107ea661fbc08e4bf9eeaceb074"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/right_4.jpg",
+    "path": "i308-calib/data/captures/right_4.jpg",
+    "sha256": "04aa1fd179a8b05b32da6ecbc1a098f8a5311f4b6cae2177ec175d07514529bb"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/right_11.jpg",
+    "path": "i308-calib/data/captures/right_11.jpg",
+    "sha256": "c950f9044844b9b6a8ac8cdeef2a914e49ed4054a8af3db3a748de20978d0ff4"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/right_9.jpg",
+    "path": "i308-calib/data/captures/right_9.jpg",
+    "sha256": "5b125775d53a8e6dc99255556edaabd62a5384cc1b35d0bd6d6c3159546bbccc"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/right_8.jpg",
+    "path": "i308-calib/data/captures/right_8.jpg",
+    "sha256": "e536de5c488413088e16afd5cf1c2ad8f5f0cf598fc9ffc533723bf1e8c3fb96"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/right_10.jpg",
+    "path": "i308-calib/data/captures/right_10.jpg",
+    "sha256": "cd6b5a8af9c1870942ab549e02d269677980704365a57a47eca8cf01970aba76"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/right_12.jpg",
+    "path": "i308-calib/data/captures/right_12.jpg",
+    "sha256": "7812971fc173ddb9f6f7256905c886af069ab3be16b975b4ca20856d136044e4"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/right_13.jpg",
+    "path": "i308-calib/data/captures/right_13.jpg",
+    "sha256": "a45decf0d92cf2fbce9c43e1aaebafa7b84f3ab68f64b1fa79b8c6b9293a1b32"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/right_14.jpg",
+    "path": "i308-calib/data/captures/right_14.jpg",
+    "sha256": "4b7b0ab0d274cf5f0d4137cab6c1823c39deeced2fcc9e23d4916fa234d01173"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/left_8.jpg",
+    "path": "i308-calib/data/captures/left_8.jpg",
+    "sha256": "1a3e5865bdfd562dcd2e72f770a4c16e9588998fe080332390618e6ffd54d45f"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/left_9.jpg",
+    "path": "i308-calib/data/captures/left_9.jpg",
+    "sha256": "f7a9cb1925ba933cb04369190f5f87ded67ee2da8bb7a57911ea903ac714b3b1"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/captures/markers.yaml",
+    "path": "i308-calib/data/captures/markers.yaml",
+    "sha256": "a617110afab75c0b6480337a64d15a3637c61fbd7baf9d1bdfb5c4bf8af25f4b"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/stereo_calibration.pkl",
+    "path": "i308-calib/data/stereo_calibration.pkl",
+    "sha256": "466e7a4539158d1e53fd5897afe972a59eea8c12a72542b34568ba27b221c862"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/i308-calib/data/stereo_maps.pkl",
+    "path": "i308-calib/data/stereo_maps.pkl",
+    "sha256": "e04ce5e4720a140c1a87b6ec0139e9abc1ab56fae44959a4675f2a24ac75ba38"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/README.md",
+    "path": "docs/README_entrega_original.md",
+    "sha256": "14070d2cb950e2cf0980d5e0a3ff7c8dfc2efc74f7e7ba30b271e4ef9f65164b"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/code_examples/stereodemo_disp_example/requirements.txt",
+    "path": "code_examples/stereodemo_disp_example/requirements.txt",
+    "sha256": "1fca2cb13abbcd54269d91c6832c6af0514a826151b74a8eb3f239f5592359d6"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/code_examples/stereodemo_disp_example/disparity_example.py",
+    "path": "code_examples/stereodemo_disp_example/disparity_example.py",
+    "sha256": "e1a4d5bb9c74dd6fc747a0f8d932c68e98a19349fb4fc9291fcbe16570b61171"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/code_examples/stereodemo_disp_example/images/cat_right_rect.jpg",
+    "path": "code_examples/stereodemo_disp_example/images/cat_right_rect.jpg",
+    "sha256": "fe2211f62ae1103381b989b30ed80634b2cf6cdb1625e98dcf660007d4e16ab3"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/code_examples/stereodemo_disp_example/images/cat_left_rect.jpg",
+    "path": "code_examples/stereodemo_disp_example/images/cat_left_rect.jpg",
+    "sha256": "5480d5de6a02bec04926c16ad756229f6d58be1eaec0da2aa696039602a1966d"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/code_examples/stereodemo_disp_example/disparity/method_raft_stereo.py",
+    "path": "code_examples/stereodemo_disp_example/disparity/method_raft_stereo.py",
+    "sha256": "70ab2e901d2af9e0518f33c071a3b8a0bf4b6b4810ab9267d124f593f5a02146"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/code_examples/stereodemo_disp_example/disparity/methods.py",
+    "path": "code_examples/stereodemo_disp_example/disparity/methods.py",
+    "sha256": "a7bab6180ffd428755e4ea6863a752a6eff69a5ea4007df30615743734dc91d9"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/code_examples/stereodemo_disp_example/disparity/__init__.py",
+    "path": "code_examples/stereodemo_disp_example/disparity/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/code_examples/stereodemo_disp_example/disparity/method_dist_depth.py",
+    "path": "code_examples/stereodemo_disp_example/disparity/method_dist_depth.py",
+    "sha256": "1a6e86f5be0ccd951b65694c0fac10ef4c11fe50d0eb1d79b981ef9ee9d15fc5"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/code_examples/stereodemo_disp_example/disparity/utils.py",
+    "path": "code_examples/stereodemo_disp_example/disparity/utils.py",
+    "sha256": "7141af0aa7617096fb66cdd6196912d66b5c268c33197bd4c340ab3dfa6f0c1e"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/code_examples/stereodemo_disp_example/disparity/method_cre_stereo.py",
+    "path": "code_examples/stereodemo_disp_example/disparity/method_cre_stereo.py",
+    "sha256": "354593c07291b6fda584d75c39f23c4b564d974909c828bf0f6225d641314d6c"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/code_examples/stereodemo_disp_example/disparity/method_chang_realtime_stereo.py",
+    "path": "code_examples/stereodemo_disp_example/disparity/method_chang_realtime_stereo.py",
+    "sha256": "ae9dce47388b93d1e6ce9c6eec38436a136a246b465e996fe6ae62fa53ed979a"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/code_examples/stereodemo_disp_example/disparity/method_hitnet.py",
+    "path": "code_examples/stereodemo_disp_example/disparity/method_hitnet.py",
+    "sha256": "e562f0423e46c9af22abe596d0ec40c8da337e32d062ab58a6d0883bce33d355"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/code_examples/stereodemo_disp_example/disparity/method_opencv_bm.py",
+    "path": "code_examples/stereodemo_disp_example/disparity/method_opencv_bm.py",
+    "sha256": "bd87ca7c12a0e999fcc3ab54d95f4f77acba4026bc6da702bc68aadf35b5fdbe"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/informe.pdf",
+    "path": "docs/informe.pdf",
+    "sha256": "d6ae9926e04cef0f1589435572b052159cfe918dff2b68d3cb2b02821bd4aac3"
+  },
+  {
+    "archive": "TP2_Garcia_Gonzalez_Turkie.zip",
+    "source": "TP2_Garcia_Gonzalez_Turkie/ferrari.ply",
+    "path": "ferrari.ply",
+    "sha256": "a9ed1223b59487083d08504700bb3598155be63ca5a42e3253f7eb0d648a2ded"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_2.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_2.jpg",
+    "sha256": "b5bb31b693f5c683190cd50a36dc6309af2c21b17637105a5ff91c4fb23827b8"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_10.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_10.jpg",
+    "sha256": "86e0678c560c01b5abf0620c4b37d6a44314a87604b23534956525a43fd49407"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_2.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_2.jpg",
+    "sha256": "b22a3a7bae6fea41bd93972fad24ecc36d4a36210d3c38ad6b38f1c8ec06d63f"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_7.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_7.jpg",
+    "sha256": "b553bd6a7d97d127493606d5def3972d486d95f89cfb2c3000d7acf33847b7f2"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_15.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_15.jpg",
+    "sha256": "c9425f82d1ed6dc7456550d21649c924794ef8614242718b69ea2f73e14a5cde"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_1.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_1.jpg",
+    "sha256": "4490074881a8c1094f23b017b2c7da59b11a862e21809331c0148c0bd2916bd8"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_16.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_16.jpg",
+    "sha256": "b564852c394da48a8128552a70d6edcf0f527813a65d9717b92cd1ae7c7090cc"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_6.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_6.jpg",
+    "sha256": "e7b1e2d9ee058dc6f8c8c359ded23a6256e01227f54995253275f9a552bb9553"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_10.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_10.jpg",
+    "sha256": "477f16643241731ad2a5db0ab3efdf5c08a2f318793601d4f9071420bc8e4cc8"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_16.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_16.jpg",
+    "sha256": "55dd0792beaa102e6fb39e6c759fddfc3791b1ee4e9a69700843836b6dc34ed4"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_13.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_13.jpg",
+    "sha256": "a661e5acb682803788122496db7067a9a2e3ab1761a72060924d6bfd84715dd4"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_20.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_20.jpg",
+    "sha256": "9653b760dbfc2f0278a6f0e31ba3be1d77fb8d3dc00710bb57f372b827a9ec38"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_4.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_4.jpg",
+    "sha256": "06391a134ddb4ce55fa05deb8c57f446af173e23e4898fb943585c85dd9950e9"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_6.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_6.jpg",
+    "sha256": "dfd957f08de6e3c860a128d327bcd75473b39ba5f8ffbc26e07ab7995fd4f11f"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_14.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_14.jpg",
+    "sha256": "6ed766bdcfb85efe1f689dc011af1328e6aafa468b938618fb2f7cdf4d6e421e"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_18.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_18.jpg",
+    "sha256": "b033a17261d0e7a3a1314689a8d05a764ecb202b689f800b41ab8c5fec0cf6e9"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/markers.yaml",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/markers.yaml",
+    "sha256": "013424eee2202812cb8220d79b95bfb7c9d8cb8bef451a9c5a4e164fc704a198"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_11.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_11.jpg",
+    "sha256": "ccee6aacf637ceec3c524f9a4738bc07947def2d3364e9ac8140136836039e6b"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_19.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_19.jpg",
+    "sha256": "bd8a896eeb585051b3ac51d2f1d131dff3f0b7a03649272f6347d0326ab8bf62"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_8.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_8.jpg",
+    "sha256": "202d1bf4b7ae6b7349b868cecc663288a95eca48c82a7b4363c8e88ed79282cc"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_7.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_7.jpg",
+    "sha256": "e0064bb8bea8ca6b5210347f3d121a6e757ea3ef1bbc060eecadfcd9bf49ad2e"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_0.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_0.jpg",
+    "sha256": "c7bfc8c060eeea28338b8166b418f81179209e0099f34ca24815b44bb747d270"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_9.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_9.jpg",
+    "sha256": "f5d857ba5cb4c4c5ea1735d5f508bca73a2ad31a5cd58f030596668f7b5d9eae"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_12.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_12.jpg",
+    "sha256": "d85829c48f8c13c97d423a6dbb788295101e6846ffcf982aaab3dc2055c5585c"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_12.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_12.jpg",
+    "sha256": "96d59a634e11769dbe773afa24f8975d5a7b7534a02313feedcea488cf519785"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_17.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_17.jpg",
+    "sha256": "3d339489a28236450c2c1dfc2c08d772d906e96672dcb879a0970b440a8aa2a9"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_3.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_3.jpg",
+    "sha256": "da34f5502e9b204a9cbb15649c70fceda47132e996f19360f9c78cfef5361bed"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_5.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_5.jpg",
+    "sha256": "4ed408e85758556671608d819a1ba0fe3491d1be2e7e473844b0a5a236a0c452"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_20.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_20.jpg",
+    "sha256": "93932fafdf5e9a9ca5159c25857f0f93e3c0b982078efa40e67cdd3d9df99f98"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_13.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_13.jpg",
+    "sha256": "ccaa06aff803564a98fc4f03c08865378fbad12f12c2114bbe98393cbac073ae"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_15.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_15.jpg",
+    "sha256": "48e47632517d5ef421597768cffbcb693de416eb421f03eaaabe088fa53a9006"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_5.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_5.jpg",
+    "sha256": "d86a2bcca4af0c0334ed1a0006f6e21f25f84a3dc561a19ea62100b45b8e5171"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_9.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_9.jpg",
+    "sha256": "caf9e0c578b035e42a2e47defd3f7c914c5b29ff9dbcc574febc2e6c70b7b9a9"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_0.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_0.jpg",
+    "sha256": "672a7104eb11ceafa8b39fc7b8d3f44a8fcb52b1d6afc2aa338fa64302b31f37"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_8.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_8.jpg",
+    "sha256": "90122bad448eb0aa1487026919e338f9eecafd390c8a0930a9ed7eae1cf75fb2"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_3.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_3.jpg",
+    "sha256": "5638f7bebe5fb91a356728d4551ead8080b3f434a774b3e56c144271351de4df"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_17.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_17.jpg",
+    "sha256": "d582c6b9916f62074b712325ffa9a12886ee7ec85937d04bd21007019c98da55"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_11.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_11.jpg",
+    "sha256": "17d1d67face71bbc375246db8f58ed1754ed688f58ec5052dda225bf8a08f227"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_1.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_1.jpg",
+    "sha256": "8a9ee1dd41b2b83d9f68499f80dc5853a8e9d825b997a3221568afc0bd304337"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_19.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_19.jpg",
+    "sha256": "aeeca5f843edd95fdc0d1d571661cde0634762fd4d39d88572199a327b23351b"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_18.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_18.jpg",
+    "sha256": "0837d793ad4fe65f8b1a36e60670c0aa0493e6214e5d776d5e9b5ec89a13a9b1"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/left_14.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/left_14.jpg",
+    "sha256": "9dbabaa5421b67cf646977cb844cab53195377009c85402545446393081b47f9"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/captures/right_4.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/captures/right_4.jpg",
+    "sha256": "7fce86c0fa12440e2effc5c06f8701633bbc1ac2ec99f4359132a35037e1ef81"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_2.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_2.jpg",
+    "sha256": "39d4223e84c3dbdc4e42cefb73483ffe1f3eb96a6b815c64c84fe24731ab24b9"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_10.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_10.jpg",
+    "sha256": "eb9ea6e9f2693b6ef5c4f8764867c5967dea911f47440c9cad50e3c75cf72745"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_2.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_2.jpg",
+    "sha256": "528829ba83e74559cd647c6d22b37f6ba8fffb53d011a8be7b7d116171c8a5a5"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_7.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_7.jpg",
+    "sha256": "9997830b9587b4d01195650d836ae4d94dc1b88300d202de9c7b06295e6ad0e5"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_15.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_15.jpg",
+    "sha256": "3aea528accabf7e23fc3ba00c4469feba2b1da035eb253f50d2098191d1355c0"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_1.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_1.jpg",
+    "sha256": "869057a4dcc41a13f471e0a6a555422c90796156a9370271b94c5d9278edc225"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_21.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_21.jpg",
+    "sha256": "c6ccaec9bbf352ae697fc25cb286a6f9182fcaca2a4b4fb82f3974a53d58266d"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_16.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_16.jpg",
+    "sha256": "7c32421d39ae83ed503693e8b5b0807bd26730fbcc1a76bdc4a0ee0e2dcf3fc1"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_6.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_6.jpg",
+    "sha256": "5ebd7c424ff7675cd12549d5ba14cdbc640a41afbe707e6bcb98573fbed3ba88"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_10.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_10.jpg",
+    "sha256": "158548e490b6f26c783e3d3cf349bed3f81a6dfa2b9352c7fc62230150d74b29"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_16.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_16.jpg",
+    "sha256": "fe334c63a83c2409246270d654f0b73af82f58d1e374cbc82a42122e38e9cf9c"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_13.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_13.jpg",
+    "sha256": "a4f3016b8a302c2da07122f2aec35a9ede8a5dc25cf1a179330393934128f456"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_20.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_20.jpg",
+    "sha256": "68252bb868de34775c566cb0ea27db47ce288d4d3bc9a3391e4a365ae38bb9c0"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_4.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_4.jpg",
+    "sha256": "f54c3297c40b0fa8dd3e7a117f8f22efb4d5f390a02942fd490b2487fb9e8ab4"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_6.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_6.jpg",
+    "sha256": "c6c04c2a6c2b665a0bd68da76f04804e54529b93e66b5710abb740c2a9c364c5"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_14.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_14.jpg",
+    "sha256": "69f96c7d19dce1423f7a389b1c7772132ea29a199edc3965dd047aef07c02384"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_18.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_18.jpg",
+    "sha256": "75fe3f3202833d6c311ce158fe5be1aaa67540c7bf943d92a30598ee17c59720"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_11.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_11.jpg",
+    "sha256": "2852da7c3e7e9ddb0e50d2669a04e9a43193d8ba2496e5500fbf4db81971e4cf"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_19.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_19.jpg",
+    "sha256": "083ee867a8d3c1794bb1ad9b7c6911cbb181c39b6f4821add00b2a49e023591b"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_8.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_8.jpg",
+    "sha256": "764ae94a8eec73ddfee407fe7ce9280e171d229ed645a58dd24de5ddc0be83fa"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_7.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_7.jpg",
+    "sha256": "9b7dd40e9006f58c9477f0fe7d6e48451628521aba21dc4e2cdbc5faa3155524"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_9.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_9.jpg",
+    "sha256": "a4049464cdd8742e5fc22ed5e3a917192865f8ee72692c649b8dec98ae77dd9f"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_12.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_12.jpg",
+    "sha256": "af5da5dcb1dd58e87e7a53affde8217d83235e6efd56e6cd4a2c0746636ae4be"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_12.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_12.jpg",
+    "sha256": "0e79a424238e716cccf8d87bf921e0b33a066dcc131752f3890389de1a21dd3a"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_17.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_17.jpg",
+    "sha256": "e22aa8957d4495985303e38151b761e3e8f29478682b480f95516b6e653e588f"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_3.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_3.jpg",
+    "sha256": "b9eb0262e8feaa95a9f6b7c32d809cdbb174a24421fffd429440bf4a06d8956f"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_5.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_5.jpg",
+    "sha256": "cfd6dec3828960c8b9da2991ab311ae874435ea025e2eb868cf6a53c66dda384"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_20.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_20.jpg",
+    "sha256": "66b12b4618c6c032480d128f314459e8abb3a170107107c168c2c0e871a591bb"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_13.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_13.jpg",
+    "sha256": "862c52fa30bfad9a07a34774d1f5a3e00707c80277f6558d9c016b845cb20e56"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_15.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_15.jpg",
+    "sha256": "ca3299720a2557e66907e524ad8c680882ad9a34e611af3c890b77cf8cf47e6e"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_5.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_5.jpg",
+    "sha256": "b9f5e0f684cb4536cdc2725603e17d08e3efdbd4445db45dd46e6adbbca85d1b"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_9.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_9.jpg",
+    "sha256": "f5a7c51b4ce2079e7dfb7400acf8a95f38e2981786369696026e8a050a427e77"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_8.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_8.jpg",
+    "sha256": "90beb3810894bb7aa992157eec798fa3acb9618574152b069169dee458d6fa4e"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_21.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_21.jpg",
+    "sha256": "19bdeaf9d81817dbc4bd5e482c09d2b9f2b1fb46151c0530353e109612cd285b"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_3.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_3.jpg",
+    "sha256": "1505e5a75dedfa69b05b51236e6006bcc90f0a380cc23043ae1c52c1e3898c63"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_17.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_17.jpg",
+    "sha256": "6f9af3b76aa22c38b067cc9410e6f2d91cce1606a872e193c5853d3af8f3d1b5"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_11.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_11.jpg",
+    "sha256": "acc8ea21e9a9910b1a2ae0b355a6bd438e0cdb30d6c6ec843816782aeac6e2e5"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_1.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_1.jpg",
+    "sha256": "283a22fa375c32447257f8c9015bce7d292be660441108e35f8e21c31cdc8ccd"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_19.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_19.jpg",
+    "sha256": "f2c2df05f6b3ca4184c97b9a140052423e47667c0cf4cf4ef5019bcb3e89df62"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_18.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_18.jpg",
+    "sha256": "ef35cefdc11f5c8e8ab117ceb3945970c157acb007ba16538e60893c0af0440a"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/left_14.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/left_14.jpg",
+    "sha256": "3a5795c85cc917caee3883b55a1d8d711a3e8da4c96c626ed9f3e7eb0d5aa501"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/checkerboard.txt",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/checkerboard.txt",
+    "sha256": "eb76d5f4eae74c8adf86a7ba1d85a2d157591055d97abf75ec7cd64c90aa8a22"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_charuco/calib/right_4.jpg",
+    "path": "material_catedra/datasets/stereo_budha_charuco/calib/right_4.jpg",
+    "sha256": "7395967d712db267cb7a92a12a50de4e70f88fccf61a03a473bb7fe05db06756"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/captures/right_2.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/captures/right_2.jpg",
+    "sha256": "2e88f136f9f258096ecfb5f8b60568e37ab9c02a6055fd4db42e3555285d3e36"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/captures/left_2.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/captures/left_2.jpg",
+    "sha256": "920961e1e99a954f10074457b952f7a05eff3f1d73d694820922bc64a3b204fa"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/captures/left_1.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/captures/left_1.jpg",
+    "sha256": "f84069f154a7a186a9d56f8aefaa9fc89e6763e782cda0257697fb820647ccc4"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/captures/left_4.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/captures/left_4.jpg",
+    "sha256": "1abdc500eb6e930d21242b331f3f5496373b12ef34f0e5a74c47085720d9a9d2"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/captures/markers.yaml",
+    "path": "material_catedra/datasets/stereo_budha_board/captures/markers.yaml",
+    "sha256": "2b4bfeaf4beb82100bca864f0d1c46f9b8f0c17957f7297b5e4150a4bc0f96d4"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/captures/left_0.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/captures/left_0.jpg",
+    "sha256": "ce79c4ad897b68bee0d8de98998db94c5ca763dfedfe3f14336ea931451d9ebe"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/captures/right_3.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/captures/right_3.jpg",
+    "sha256": "c424ec47ffdefba65246ba3da81afdc186db87508ac81ca2c047f5c282039520"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/captures/left_5.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/captures/left_5.jpg",
+    "sha256": "421151b6a20cb6e5230cc648d40b52416603232d6507da517be7a8b2723abb94"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/captures/right_5.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/captures/right_5.jpg",
+    "sha256": "cad13f53cf5d0c313f18a1699cfce4e3d6772585d7995b2677ab1718180f455f"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/captures/right_0.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/captures/right_0.jpg",
+    "sha256": "2088774dc7a8609498061500490d06e30817d809c40b3593f435ef6bd27cc8c9"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/captures/left_3.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/captures/left_3.jpg",
+    "sha256": "6ea004c577d28a6c01f3504a20870c10a70911dd2051acb3701e00d0b8cde1d8"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/captures/right_1.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/captures/right_1.jpg",
+    "sha256": "ea18a526b7962fac70358a2783cbbfde9f8f463377f4602fb07714d27c671b8a"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/captures/right_4.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/captures/right_4.jpg",
+    "sha256": "8a1a8ac282f548b1970f32196057c3d4dce397e719fa12bb462094c1d6b6049f"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_17.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_17.jpg",
+    "sha256": "a927e4bac5cc137ade5873520eefc5e20a44ddf446c8ecbdc89a146eed700d56"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_18.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_18.jpg",
+    "sha256": "657c19cd40f766f10bf323b9ac3ea63334f877aa868dded081de53366994e6e3"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_8.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_8.jpg",
+    "sha256": "cee20343832836342183ba6cf9cce9522ba40d80ad6820fcb1e189ae5242bf56"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_15.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_15.jpg",
+    "sha256": "fed70c2e73af14b2b97dae625da1fe0586b8e18a10085dbcc925d330432567f0"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_25.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_25.jpg",
+    "sha256": "a05baf2797d64de1fc92b281c9b7770dc6cf3993dfcfa282798fbcf240ed200b"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_6.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_6.jpg",
+    "sha256": "7d4150203e2aa34cc3f5749d2b5a68ba2925864023623f13d1cb6f69fb2ea591"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_2.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_2.jpg",
+    "sha256": "5c1e509cc33cd0b0f1c37f70d1e422734b970edcf930bab82dd067e4baf3cea5"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_2.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_2.jpg",
+    "sha256": "3de5bf2cfe2bd1b1f04931e32570e164e3b9b4750d07d82bfa2a50695a5b3789"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_5.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_5.jpg",
+    "sha256": "be1dbded8f08c42807513a9749441f22bf3e231cbebcb0b514259d4ada41871e"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_27.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_27.jpg",
+    "sha256": "83c605207c4305e3b04424b0a37e64ad642c0894690400179296963ab333d0d7"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_15.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_15.jpg",
+    "sha256": "c340c7b35f646257e546e397ddbffe415709e11b6329a5da8c2d3f4b09d7a4e3"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_22.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_22.jpg",
+    "sha256": "f9784a481c230cf3f2d543e0f3ef5c02a13ef38bd485f2dba6421b988d325800"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_20.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_20.jpg",
+    "sha256": "b9a3b4be668db17e1946ff7c2b513a4b260bc9a2029cde72862188aaaa8c5e19"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_16.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_16.jpg",
+    "sha256": "4fa88aebb81e748a0172c29174393adebe356934342409bf4e4f5617b4efc235"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_25.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_25.jpg",
+    "sha256": "065f918dfb74459bbec01fc84b42c1c775c012ad3d7b00e7795c9b3e1ca0cc69"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_16.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_16.jpg",
+    "sha256": "603b4df308a9a05239f4674555b3a3413c503a75024cdd6ecbd988a9c6618b80"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_1.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_1.jpg",
+    "sha256": "a86b978c40d22e629202b61c357018a3de4a32a1e1e0c2156797e35b30db78bf"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_26.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_26.jpg",
+    "sha256": "b025764714b340c977b1d3b6d1c0b38871bf2a9325256476888ccf0c38bbf303"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_13.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_13.jpg",
+    "sha256": "f2e2bb861bbf6e0d2c9e723bd5824bb541a10f2e4462cd0a355fc4a36977fc7c"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_22.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_22.jpg",
+    "sha256": "4fbaec108a83e0f15dca5ab36557d7cb9fa10b42ebca61db74623c7471b8cd12"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_19.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_19.jpg",
+    "sha256": "74975190ce32b28a8a00bbcd7324f36676a3c2e83289ed9da92d695ba406a093"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_12.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_12.jpg",
+    "sha256": "8a5016adf672f8a0028307edeadbde836b78605336311fd7643af8016ebfa291"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_17.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_17.jpg",
+    "sha256": "c8e8100c0246c3c54c18b2541210bb6e08f895c1824ffa7a9637ba703dc53882"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_1.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_1.jpg",
+    "sha256": "816df0fe47f0974bff5b7e7081fb8fd157c9e59f3324109072ed4cfeb7d39020"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_11.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_11.jpg",
+    "sha256": "847086cda84118751dc4e6d82f94894d0fab40855b90a4fce595b63bf19ee744"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_14.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_14.jpg",
+    "sha256": "e6b351f6f166057acbc88a8fca07371a01860d359994c28888a6394bf69ee56e"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_24.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_24.jpg",
+    "sha256": "927b424066ed50ad792b32cb056d27225c78356c6bdcc346d65efa5520494522"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_10.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_10.jpg",
+    "sha256": "6e4ceabae68f36d261869a230be056a73fc1a4426aeb82bfac2c2c8ce28b9e97"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_24.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_24.jpg",
+    "sha256": "74b3903c2149dfdb77fa675d45d767daaaa754f84cbb0ddb450b3066a75e0f76"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_11.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_11.jpg",
+    "sha256": "31659c256d13c827a7625e4afdf44951804ca49eb20b0306290f88ff606ffb6e"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_0.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_0.jpg",
+    "sha256": "e0f2fa8aa9bcea8ce7d323ac03e1c55d56ac4f710c626f733d9f71b40554df27"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_21.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_21.jpg",
+    "sha256": "75ab276d4dda0a761333f90d67f7526a1138a56e3f61a3be1ab9ae40e39a2d17"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_3.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_3.jpg",
+    "sha256": "27f744e7fa5e49d7618abebe01858782b2d5049c58313cb841cbc9a68a18adaa"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_4.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_4.jpg",
+    "sha256": "96af8842fd73ea87aa4d804529ed6b5c06367a90bb1d5135361a6667052f066c"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_9.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_9.jpg",
+    "sha256": "a26e9081264fcbda14c6295db8047dc0d6e364684277ac62e41b8faa0ef0d925"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_12.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_12.jpg",
+    "sha256": "4fd33cea5031c1cb16cf6a6a56b45a5cb70a9c7034e434b5ce9069ea6540d275"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_23.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_23.jpg",
+    "sha256": "9c6413525b5d2027fb17d58edde1616a517c708746497df6da5b53f446e82492"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_6.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_6.jpg",
+    "sha256": "1d0ba7d90df6d24b2da4f8802a2785f65dc5fd6310186a8c700d02be4b021fa3"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_10.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_10.jpg",
+    "sha256": "e3924d37b4769dfceda59c7cc75296ee495403032c80cdc3b7f9abcc44d40ae2"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_18.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_18.jpg",
+    "sha256": "28cff7e3858d3e00588e52ef62d23150d1b2928b9ecb717381d8f034d3cc0cac"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_20.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_20.jpg",
+    "sha256": "151f184515e2bee283fe11917c0065ccf71687e70ce8660304da9a9f4eddeb95"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_3.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_3.jpg",
+    "sha256": "953c691338b95e738b458bc263f1a096cd86011371c6b72579c29f5e4985a107"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_7.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_7.jpg",
+    "sha256": "d10cbe6236b0b5f65df97aaa86dfb6a5afdc025f2a60c69af16c16bf2a37ee13"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_13.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_13.jpg",
+    "sha256": "b3cd418f941df3217552e81feda947aa13da6856a2c45e0fb034c8acc4bd99f6"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_5.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_5.jpg",
+    "sha256": "38a564d68f190cb1d3a529966f75906cc277b099522ea88d85f77b34641c9896"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_8.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_8.jpg",
+    "sha256": "56c0190c788359a3f2bdf6ef33c5bad6f49ed79baaa57e37846d9bf1014f42f8"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_26.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_26.jpg",
+    "sha256": "da5a554be605ef68886fc6b6f5b6327ff81e4e741e42adafc99548ca019784f4"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_23.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_23.jpg",
+    "sha256": "5d8cbbbc925b220d818c1f1b97e8361eb0e6f5fa2f51b71b39622ef4b07a31cd"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_0.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_0.jpg",
+    "sha256": "fae34f59fe353e190be45ed3a59d73ba928b66497f991466f9cc349e8d9e735d"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_7.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_7.jpg",
+    "sha256": "0ed02a0b036b0a4f9acf2d863843be02bcd2d5d2b3e11dbbc956528a4e849267"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_19.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_19.jpg",
+    "sha256": "df81a9d5b18f2fb9e40d5671f31fd8e57e311272b9d326fbaeac4bbe4b8a45ae"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/checkerboard.txt",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/checkerboard.txt",
+    "sha256": "eb76d5f4eae74c8adf86a7ba1d85a2d157591055d97abf75ec7cd64c90aa8a22"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_27.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_27.jpg",
+    "sha256": "e893e89afb0c764b2e555a777a746ddf1cc57484713e75996677e2f0bd0042d1"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_21.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_21.jpg",
+    "sha256": "63dc0b8f97277ae11ce13a3d3d7df0b4d58fe5d7c0b5a12b169ba6b95bfedc0e"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_right_14.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_right_14.jpg",
+    "sha256": "ee4185cc6ecbe66d7e0ab28427a3a2808e0fb756002e3157532572e4cf08a8a6"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_4.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_4.jpg",
+    "sha256": "2f88919bc39c9653ecc098685438e3688988d1fc683f0cb377b55c04eeee1441"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/datasets/stereo_budha_board/calib/calib_left_9.jpg",
+    "path": "material_catedra/datasets/stereo_budha_board/calib/calib_left_9.jpg",
+    "sha256": "6426a0167b40a22d9e8f42b2f5f5a5f4fe3757d34d7beb87bba0f61750c924d2"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/I308 Vision Artificial - TP2 - Reconstrucción 3D.pdf",
+    "path": "docs/consigna.pdf",
+    "sha256": "5614e671f91c39a013ede67b0491fd6be27d1a3345ef63225af1de62e4270736"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/charuco_example/aruco.py",
+    "path": "material_catedra/code_examples/charuco_example/aruco.py",
+    "sha256": "cce81835d0a3cb945ad827db2b5eb1541aecb4148d841f0093ee5e44315ca84f"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/charuco_example/res/stereo_calibration.pkl",
+    "path": "material_catedra/code_examples/charuco_example/res/stereo_calibration.pkl",
+    "sha256": "72f9ed4b56c82cfe058130d6d6c6056653ff770e8f6a543e0f39926419e5a11c"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/charuco_example/res/left_0.jpg",
+    "path": "material_catedra/code_examples/charuco_example/res/left_0.jpg",
+    "sha256": "c7bfc8c060eeea28338b8166b418f81179209e0099f34ca24815b44bb747d270"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/charuco_example/res/right_0.jpg",
+    "path": "material_catedra/code_examples/charuco_example/res/right_0.jpg",
+    "sha256": "672a7104eb11ceafa8b39fc7b8d3f44a8fcb52b1d6afc2aa338fa64302b31f37"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/charuco_example/requirements.txt",
+    "path": "material_catedra/code_examples/charuco_example/requirements.txt",
+    "sha256": "1a964f6051fd11f8e9932f2b24207954f217a929f9e09828409a56d82dea8977"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/charuco_example/main.py",
+    "path": "material_catedra/code_examples/charuco_example/main.py",
+    "sha256": "74cdf796fb4cb7f5cd0c9a0bc5dcd6550987e8168a2811f8d8ecb5efe6697715"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/stereodemo_disp_example/disparity/method_dist_depth.py",
+    "path": "material_catedra/code_examples/stereodemo_disp_example/disparity/method_dist_depth.py",
+    "sha256": "1a6e86f5be0ccd951b65694c0fac10ef4c11fe50d0eb1d79b981ef9ee9d15fc5"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/stereodemo_disp_example/disparity/methods.py",
+    "path": "material_catedra/code_examples/stereodemo_disp_example/disparity/methods.py",
+    "sha256": "a7bab6180ffd428755e4ea6863a752a6eff69a5ea4007df30615743734dc91d9"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/stereodemo_disp_example/disparity/utils.py",
+    "path": "material_catedra/code_examples/stereodemo_disp_example/disparity/utils.py",
+    "sha256": "7141af0aa7617096fb66cdd6196912d66b5c268c33197bd4c340ab3dfa6f0c1e"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/stereodemo_disp_example/disparity/__init__.py",
+    "path": "material_catedra/code_examples/stereodemo_disp_example/disparity/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/stereodemo_disp_example/disparity/method_chang_realtime_stereo.py",
+    "path": "material_catedra/code_examples/stereodemo_disp_example/disparity/method_chang_realtime_stereo.py",
+    "sha256": "ae9dce47388b93d1e6ce9c6eec38436a136a246b465e996fe6ae62fa53ed979a"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/stereodemo_disp_example/disparity/method_opencv_bm.py",
+    "path": "material_catedra/code_examples/stereodemo_disp_example/disparity/method_opencv_bm.py",
+    "sha256": "bd87ca7c12a0e999fcc3ab54d95f4f77acba4026bc6da702bc68aadf35b5fdbe"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/stereodemo_disp_example/disparity/method_hitnet.py",
+    "path": "material_catedra/code_examples/stereodemo_disp_example/disparity/method_hitnet.py",
+    "sha256": "e562f0423e46c9af22abe596d0ec40c8da337e32d062ab58a6d0883bce33d355"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/stereodemo_disp_example/disparity/method_raft_stereo.py",
+    "path": "material_catedra/code_examples/stereodemo_disp_example/disparity/method_raft_stereo.py",
+    "sha256": "70ab2e901d2af9e0518f33c071a3b8a0bf4b6b4810ab9267d124f593f5a02146"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/stereodemo_disp_example/disparity/method_cre_stereo.py",
+    "path": "material_catedra/code_examples/stereodemo_disp_example/disparity/method_cre_stereo.py",
+    "sha256": "354593c07291b6fda584d75c39f23c4b564d974909c828bf0f6225d641314d6c"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/stereodemo_disp_example/images/cat_right_rect.jpg",
+    "path": "material_catedra/code_examples/stereodemo_disp_example/images/cat_right_rect.jpg",
+    "sha256": "fe2211f62ae1103381b989b30ed80634b2cf6cdb1625e98dcf660007d4e16ab3"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/stereodemo_disp_example/images/cat_left_rect.jpg",
+    "path": "material_catedra/code_examples/stereodemo_disp_example/images/cat_left_rect.jpg",
+    "sha256": "5480d5de6a02bec04926c16ad756229f6d58be1eaec0da2aa696039602a1966d"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/stereodemo_disp_example/disparity_example.py",
+    "path": "material_catedra/code_examples/stereodemo_disp_example/disparity_example.py",
+    "sha256": "e1a4d5bb9c74dd6fc747a0f8d932c68e98a19349fb4fc9291fcbe16570b61171"
+  },
+  {
+    "archive": "tp2_reconstruccion_3d (1).zip",
+    "source": "tp2_reconstruccion_3d/code_examples/stereodemo_disp_example/requirements.txt",
+    "path": "material_catedra/code_examples/stereodemo_disp_example/requirements.txt",
+    "sha256": "1fca2cb13abbcd54269d91c6832c6af0514a826151b74a8eb3f239f5592359d6"
+  },
+  {
+    "archive": null,
+    "source": "calib-tool (1).md",
+    "path": "docs/calib-tool.md",
+    "sha256": "0b9ce8880cbb2e6170fb5fe7f1489fcb77c0d527764fec3cb55b9f6420ba0b78"
+  }
+]

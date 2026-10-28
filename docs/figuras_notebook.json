@@ -1,0 +1,74 @@
+[
+  {
+    "path": "figures/reprojection_error.png",
+    "cell": 7,
+    "output": 0,
+    "sha256": "575e1fbd3f7e7ea43d9fd3491cbd340ea89a1ee86b21900ee848537c4da5556b"
+  },
+  {
+    "path": "figures/rectification_pair_0.png",
+    "cell": 9,
+    "output": 0,
+    "sha256": "100a9bbfe007c256e5314f2c0bc4d54932ac3b65ff8c530d8b08f95e9ed717d6"
+  },
+  {
+    "path": "figures/disparity_methods.png",
+    "cell": 15,
+    "output": 0,
+    "sha256": "5d2b76b3de74efe8ec3fd28682c4d8a16e1d14718c225cb06b58c0601bdd54e1"
+  },
+  {
+    "path": "figures/local_clouds_pair_7.png",
+    "cell": 18,
+    "output": 4,
+    "sha256": "9c2d733662434f48c8b9141eaa8ec3a2282f2d73bcc2dd66832b582102159f12"
+  },
+  {
+    "path": "figures/camera_poses.png",
+    "cell": 23,
+    "output": 0,
+    "sha256": "8df63e1f450d4232ec35d2c905f53cc97f8ac4397d49600eccc266c9bb1ff6b8"
+  },
+  {
+    "path": "figures/disparity_offset.png",
+    "cell": 27,
+    "output": 0,
+    "sha256": "a2de7bd0145edfc83ff0b3922bc79332c38ffb621dbeacee777467550b2d4b28"
+  },
+  {
+    "path": "figures/world_scene.png",
+    "cell": 31,
+    "output": 1,
+    "sha256": "40a38c800e90125f2d2149e19ab0d43d9f0bf5d995324bbdf8c7e9fd8faac8f8"
+  },
+  {
+    "path": "figures/world_alignment.png",
+    "cell": 32,
+    "output": 1,
+    "sha256": "de1032b4ae8918633b63917a070c6c17e1c32b211fe320dbfb7dbd873f9b3a4b"
+  },
+  {
+    "path": "figures/edge_filter.png",
+    "cell": 37,
+    "output": 2,
+    "sha256": "daefad2a741789e2483a78dc144db1f1f2e2a8bfea505776cb25bde1cb9cd595"
+  },
+  {
+    "path": "figures/fusion_cleanup.png",
+    "cell": 40,
+    "output": 12,
+    "sha256": "c508d5390a5faaf8926bd360eb598b7d32e82486e19f88d9bddb4443cd3a8af1"
+  },
+  {
+    "path": "figures/measurement.png",
+    "cell": 47,
+    "output": 3,
+    "sha256": "9eeb7bc664c281696c7cc4d18eb3b30f15a274e52747e38a4ec5459c533025c1"
+  },
+  {
+    "path": "figures/disparity_correction.png",
+    "cell": 50,
+    "output": 4,
+    "sha256": "05d0b7f2ff281567dfad8a822039e649f97c8f9de0a6c88d275457b0341aa179"
+  }
+]

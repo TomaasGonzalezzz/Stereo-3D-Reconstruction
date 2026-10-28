@@ -1,0 +1,10 @@
+# Versiones declaradas en el README original del equipo (Python 3.9.6).
+# No sustituir por los requirements genéricos de los ejemplos de cátedra.
+numpy==1.26.4
+opencv-python==4.11.0.86
+open3d==0.18.0
+onnxruntime==1.19.2
+matplotlib==3.9.4
+# Herramientas para abrir el notebook.
+jupyterlab>=4,<5
+ipykernel>=6,<7

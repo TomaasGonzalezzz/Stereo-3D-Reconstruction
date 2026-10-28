@@ -1,0 +1,14 @@
+* text=auto eol=lf
+*.ipynb text eol=lf
+*.pdf binary
+*.jpg binary
+*.png binary
+*.pkl binary
+*.ply binary
+# Conservar exactamente los bytes de la entrega y del material recibido.
+main.ipynb -text
+i308-calib/** -text
+code_examples/** -text
+material_catedra/** -text
+docs/README_entrega_original.md -text
+docs/calib-tool.md -text

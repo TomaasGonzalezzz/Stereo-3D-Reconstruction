@@ -1,0 +1,20 @@
+{
+  "source": "ferrari.ply entregado; no se vuelve a ejecutar la reconstrucción",
+  "vertices": 299841,
+  "trim_percent": 0.1,
+  "measured_mm": {
+    "largo": 291.53853885478867,
+    "ancho": 128.9827825120472,
+    "alto": 79.92362976472768
+  },
+  "reference_mm": {
+    "largo": 290.0,
+    "ancho": 120.0,
+    "alto": 80.0
+  },
+  "relative_error_percent": {
+    "largo": 0.5305306395822997,
+    "ancho": 7.485652093372674,
+    "alto": -0.09546279409040181
+  }
+}
