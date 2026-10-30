@@ -7,6 +7,8 @@ Con un par de cámaras y fotos tomadas desde distintas posiciones, reconstruimos
 
 [Informe](docs/informe.pdf) · [Notebook liviano](main_sin_salidas.ipynb) · [Nube de puntos final](ferrari.ply)
 
+**Resultado:** una nube de casi 300 mil puntos del auto, con largo y alto medidos con menos de 1 % de error.
+
 ![Nube de puntos final del Ferrari, vista desde arriba, de costado y en diagonal](figures/measurement.png)
 
 ## Recorrido
@@ -46,6 +48,10 @@ Medimos la nube con PCA en el plano del piso, descartando el 0,1 % de puntos en 
 | Alto | 79,9 mm | 80,0 mm | −0,10 % |
 
 El mayor error aparece en el ancho. La medición verifica la nube entregada; no es una validación física independiente.
+
+## Conclusión
+
+Con un par de cámaras y un tablero impreso alcanzó para medir un objeto real con muy poco error en largo y alto. Los dos puntos que más cambiaron el resultado fueron la disparidad, donde CREStereo dejó muchos menos huecos que los métodos clásicos, y la limpieza de la nube. El ancho, con 7,5 % de error, queda como lo principal a mejorar.
 
 ## Revisar el resultado
 
